@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.maincenter{
+    margin:0px auto;
+    width:920px;
+    /*border:1px solid #000;*/
+}
+#div1 li { margin: 0px; padding: 0px; float: right;     list-style:none;
+}
+#div1 li a{
+    display:block;
+    float:left;
+    height:40px;
+    line-height:40px;
+    width:100px;
+    text-align:center;
+}
+    #div1 li a:hover{
+        background-color:red;
+    }
+
+.div2 {
+    text-align:center;
+}

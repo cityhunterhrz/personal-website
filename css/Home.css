@@ -1,0 +1,47 @@
+﻿body {
+}
+.maincenter{
+    margin:0px auto;
+    width:920px;
+    /*border:1px solid #000;*/
+}
+#navdiv li { margin: 0px; padding: 0px; float: right;     list-style:none;
+}
+#navdiv li a{
+    display:block;
+    float:left;
+    height:40px;
+    line-height:40px;
+    width:60px;
+    text-align:center;
+}
+    #navdiv li a:hover{
+        background-color:red;
+    }
+
+.homepage {
+    text-align:center;
+    font-family:"微软雅黑";
+    font-size:50px;
+}
+.introduction {
+    text-align:center;
+    font-family:"微软雅黑";
+    font-size:20px;
+}
+
+.img {
+    text-align:center;
+}
+.copyright {
+    text-align:center;
+    color:#999;
+}
+.copyright a{
+    color:#999;
+    text-decoration:none;
+}
+.copyright a:hover {
+    color: #f54343;
+    text-decoration: underline;
+}
